@@ -1,3 +1,9 @@
 <Solution>
   <Folder Name="/Src/" />
+  <Folder Name="/Src/Src.Reources/">
+    <Project Path="CustomExcelReader.Resources/CustomExcelReader.Resources.csproj" />
+  </Folder>
+  <Folder Name="/Src/Src.UI/">
+    <Project Path="CustomExcelReader.WebUI/CustomExcelReader.WebUI.csproj" />
+  </Folder>
 </Solution>
